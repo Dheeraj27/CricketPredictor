@@ -1,0 +1,260 @@
+{
+    "bat_team": "South Africa",
+    "city": "Potchefstroom",
+    "final_score": "323/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 2,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 6,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 10,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 12,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 17,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 23,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 37,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 45,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 51,
+            "wickets": 0
+        },
+        {
+            "over": 10,
+            "runs": 61,
+            "wickets": 0
+        },
+        {
+            "over": 11,
+            "runs": 67,
+            "wickets": 0
+        },
+        {
+            "over": 12,
+            "runs": 72,
+            "wickets": 0
+        },
+        {
+            "over": 13,
+            "runs": 77,
+            "wickets": 0
+        },
+        {
+            "over": 14,
+            "runs": 89,
+            "wickets": 0
+        },
+        {
+            "over": 15,
+            "runs": 95,
+            "wickets": 0
+        },
+        {
+            "over": 16,
+            "runs": 106,
+            "wickets": 0
+        },
+        {
+            "over": 17,
+            "runs": 110,
+            "wickets": 0
+        },
+        {
+            "over": 18,
+            "runs": 111,
+            "wickets": 0
+        },
+        {
+            "over": 19,
+            "runs": 113,
+            "wickets": 0
+        },
+        {
+            "over": 20,
+            "runs": 120,
+            "wickets": 0
+        },
+        {
+            "over": 21,
+            "runs": 127,
+            "wickets": 0
+        },
+        {
+            "over": 22,
+            "runs": 130,
+            "wickets": 0
+        },
+        {
+            "over": 23,
+            "runs": 137,
+            "wickets": 0
+        },
+        {
+            "over": 24,
+            "runs": 142,
+            "wickets": 0
+        },
+        {
+            "over": 25,
+            "runs": 148,
+            "wickets": 0
+        },
+        {
+            "over": 26,
+            "runs": 150,
+            "wickets": 0
+        },
+        {
+            "over": 27,
+            "runs": 153,
+            "wickets": 0
+        },
+        {
+            "over": 28,
+            "runs": 159,
+            "wickets": 0
+        },
+        {
+            "over": 29,
+            "runs": 162,
+            "wickets": 0
+        },
+        {
+            "over": 30,
+            "runs": 166,
+            "wickets": 0
+        },
+        {
+            "over": 31,
+            "runs": 170,
+            "wickets": 0
+        },
+        {
+            "over": 32,
+            "runs": 175,
+            "wickets": 0
+        },
+        {
+            "over": 33,
+            "runs": 178,
+            "wickets": 0
+        },
+        {
+            "over": 34,
+            "runs": 191,
+            "wickets": 0
+        },
+        {
+            "over": 35,
+            "runs": 200,
+            "wickets": 0
+        },
+        {
+            "over": 36,
+            "runs": 214,
+            "wickets": 1
+        },
+        {
+            "over": 37,
+            "runs": 218,
+            "wickets": 1
+        },
+        {
+            "over": 38,
+            "runs": 228,
+            "wickets": 2
+        },
+        {
+            "over": 39,
+            "runs": 235,
+            "wickets": 2
+        },
+        {
+            "over": 40,
+            "runs": 243,
+            "wickets": 3
+        },
+        {
+            "over": 41,
+            "runs": 251,
+            "wickets": 4
+        },
+        {
+            "over": 42,
+            "runs": 259,
+            "wickets": 4
+        },
+        {
+            "over": 43,
+            "runs": 282,
+            "wickets": 4
+        },
+        {
+            "over": 44,
+            "runs": 285,
+            "wickets": 5
+        },
+        {
+            "over": 45,
+            "runs": 292,
+            "wickets": 6
+        },
+        {
+            "over": 46,
+            "runs": 298,
+            "wickets": 6
+        },
+        {
+            "over": 47,
+            "runs": 301,
+            "wickets": 7
+        },
+        {
+            "over": 48,
+            "runs": 307,
+            "wickets": 7
+        },
+        {
+            "over": 49,
+            "runs": 317,
+            "wickets": 7
+        },
+        {
+            "over": 50,
+            "runs": 323,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 323,
+    "tot_wickets": 8,
+    "venue": "North-West University No1 Ground"
+}

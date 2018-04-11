@@ -1,0 +1,259 @@
+{
+    "bat_team": "England",
+    "final_score": "299/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 12,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 19,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 25,
+            "wickets": 1
+        },
+        {
+            "over": 4,
+            "runs": 26,
+            "wickets": 1
+        },
+        {
+            "over": 5,
+            "runs": 32,
+            "wickets": 1
+        },
+        {
+            "over": 6,
+            "runs": 33,
+            "wickets": 1
+        },
+        {
+            "over": 7,
+            "runs": 39,
+            "wickets": 1
+        },
+        {
+            "over": 8,
+            "runs": 53,
+            "wickets": 1
+        },
+        {
+            "over": 9,
+            "runs": 62,
+            "wickets": 1
+        },
+        {
+            "over": 10,
+            "runs": 65,
+            "wickets": 1
+        },
+        {
+            "over": 11,
+            "runs": 71,
+            "wickets": 1
+        },
+        {
+            "over": 12,
+            "runs": 74,
+            "wickets": 1
+        },
+        {
+            "over": 13,
+            "runs": 82,
+            "wickets": 1
+        },
+        {
+            "over": 14,
+            "runs": 89,
+            "wickets": 1
+        },
+        {
+            "over": 15,
+            "runs": 100,
+            "wickets": 1
+        },
+        {
+            "over": 16,
+            "runs": 101,
+            "wickets": 1
+        },
+        {
+            "over": 17,
+            "runs": 109,
+            "wickets": 1
+        },
+        {
+            "over": 18,
+            "runs": 113,
+            "wickets": 1
+        },
+        {
+            "over": 19,
+            "runs": 116,
+            "wickets": 1
+        },
+        {
+            "over": 20,
+            "runs": 123,
+            "wickets": 1
+        },
+        {
+            "over": 21,
+            "runs": 132,
+            "wickets": 1
+        },
+        {
+            "over": 22,
+            "runs": 136,
+            "wickets": 1
+        },
+        {
+            "over": 23,
+            "runs": 139,
+            "wickets": 2
+        },
+        {
+            "over": 24,
+            "runs": 147,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 151,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 156,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 158,
+            "wickets": 4
+        },
+        {
+            "over": 28,
+            "runs": 159,
+            "wickets": 4
+        },
+        {
+            "over": 29,
+            "runs": 165,
+            "wickets": 4
+        },
+        {
+            "over": 30,
+            "runs": 169,
+            "wickets": 4
+        },
+        {
+            "over": 31,
+            "runs": 174,
+            "wickets": 4
+        },
+        {
+            "over": 32,
+            "runs": 179,
+            "wickets": 4
+        },
+        {
+            "over": 33,
+            "runs": 187,
+            "wickets": 4
+        },
+        {
+            "over": 34,
+            "runs": 192,
+            "wickets": 4
+        },
+        {
+            "over": 35,
+            "runs": 194,
+            "wickets": 4
+        },
+        {
+            "over": 36,
+            "runs": 202,
+            "wickets": 4
+        },
+        {
+            "over": 37,
+            "runs": 208,
+            "wickets": 4
+        },
+        {
+            "over": 38,
+            "runs": 221,
+            "wickets": 4
+        },
+        {
+            "over": 39,
+            "runs": 224,
+            "wickets": 4
+        },
+        {
+            "over": 40,
+            "runs": 225,
+            "wickets": 5
+        },
+        {
+            "over": 41,
+            "runs": 227,
+            "wickets": 5
+        },
+        {
+            "over": 42,
+            "runs": 229,
+            "wickets": 6
+        },
+        {
+            "over": 43,
+            "runs": 235,
+            "wickets": 6
+        },
+        {
+            "over": 44,
+            "runs": 243,
+            "wickets": 6
+        },
+        {
+            "over": 45,
+            "runs": 257,
+            "wickets": 6
+        },
+        {
+            "over": 46,
+            "runs": 271,
+            "wickets": 6
+        },
+        {
+            "over": 47,
+            "runs": 275,
+            "wickets": 6
+        },
+        {
+            "over": 48,
+            "runs": 283,
+            "wickets": 7
+        },
+        {
+            "over": 49,
+            "runs": 289,
+            "wickets": 7
+        },
+        {
+            "over": 50,
+            "runs": 299,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 299,
+    "tot_wickets": 8,
+    "venue": "Adelaide Oval"
+}

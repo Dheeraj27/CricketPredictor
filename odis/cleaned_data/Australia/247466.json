@@ -1,0 +1,260 @@
+{
+    "bat_team": "Australia",
+    "city": "St Kitts",
+    "final_score": "358/5",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 7,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 14,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 21,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 22,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 22,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 28,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 34,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 43,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 48,
+            "wickets": 0
+        },
+        {
+            "over": 10,
+            "runs": 58,
+            "wickets": 0
+        },
+        {
+            "over": 11,
+            "runs": 69,
+            "wickets": 0
+        },
+        {
+            "over": 12,
+            "runs": 73,
+            "wickets": 1
+        },
+        {
+            "over": 13,
+            "runs": 83,
+            "wickets": 1
+        },
+        {
+            "over": 14,
+            "runs": 84,
+            "wickets": 1
+        },
+        {
+            "over": 15,
+            "runs": 88,
+            "wickets": 1
+        },
+        {
+            "over": 16,
+            "runs": 93,
+            "wickets": 1
+        },
+        {
+            "over": 17,
+            "runs": 99,
+            "wickets": 1
+        },
+        {
+            "over": 18,
+            "runs": 109,
+            "wickets": 1
+        },
+        {
+            "over": 19,
+            "runs": 116,
+            "wickets": 1
+        },
+        {
+            "over": 20,
+            "runs": 116,
+            "wickets": 2
+        },
+        {
+            "over": 21,
+            "runs": 119,
+            "wickets": 3
+        },
+        {
+            "over": 22,
+            "runs": 122,
+            "wickets": 3
+        },
+        {
+            "over": 23,
+            "runs": 131,
+            "wickets": 3
+        },
+        {
+            "over": 24,
+            "runs": 141,
+            "wickets": 3
+        },
+        {
+            "over": 25,
+            "runs": 145,
+            "wickets": 3
+        },
+        {
+            "over": 26,
+            "runs": 147,
+            "wickets": 3
+        },
+        {
+            "over": 27,
+            "runs": 148,
+            "wickets": 3
+        },
+        {
+            "over": 28,
+            "runs": 151,
+            "wickets": 3
+        },
+        {
+            "over": 29,
+            "runs": 160,
+            "wickets": 3
+        },
+        {
+            "over": 30,
+            "runs": 163,
+            "wickets": 3
+        },
+        {
+            "over": 31,
+            "runs": 167,
+            "wickets": 3
+        },
+        {
+            "over": 32,
+            "runs": 173,
+            "wickets": 3
+        },
+        {
+            "over": 33,
+            "runs": 179,
+            "wickets": 3
+        },
+        {
+            "over": 34,
+            "runs": 183,
+            "wickets": 3
+        },
+        {
+            "over": 35,
+            "runs": 189,
+            "wickets": 3
+        },
+        {
+            "over": 36,
+            "runs": 197,
+            "wickets": 3
+        },
+        {
+            "over": 37,
+            "runs": 208,
+            "wickets": 3
+        },
+        {
+            "over": 38,
+            "runs": 211,
+            "wickets": 3
+        },
+        {
+            "over": 39,
+            "runs": 220,
+            "wickets": 3
+        },
+        {
+            "over": 40,
+            "runs": 228,
+            "wickets": 3
+        },
+        {
+            "over": 41,
+            "runs": 237,
+            "wickets": 3
+        },
+        {
+            "over": 42,
+            "runs": 242,
+            "wickets": 3
+        },
+        {
+            "over": 43,
+            "runs": 263,
+            "wickets": 3
+        },
+        {
+            "over": 44,
+            "runs": 272,
+            "wickets": 3
+        },
+        {
+            "over": 45,
+            "runs": 288,
+            "wickets": 3
+        },
+        {
+            "over": 46,
+            "runs": 302,
+            "wickets": 3
+        },
+        {
+            "over": 47,
+            "runs": 313,
+            "wickets": 3
+        },
+        {
+            "over": 48,
+            "runs": 322,
+            "wickets": 4
+        },
+        {
+            "over": 49,
+            "runs": 334,
+            "wickets": 5
+        },
+        {
+            "over": 50,
+            "runs": 358,
+            "wickets": 5
+        }
+    ],
+    "tot_runs": 358,
+    "tot_wickets": 5,
+    "venue": "Warner Park, Basseterre"
+}

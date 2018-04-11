@@ -1,0 +1,260 @@
+{
+    "bat_team": "India",
+    "city": "Chennai",
+    "final_score": "299/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 2,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 9,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 18,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 26,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 29,
+            "wickets": 1
+        },
+        {
+            "over": 6,
+            "runs": 30,
+            "wickets": 1
+        },
+        {
+            "over": 7,
+            "runs": 31,
+            "wickets": 1
+        },
+        {
+            "over": 8,
+            "runs": 35,
+            "wickets": 2
+        },
+        {
+            "over": 9,
+            "runs": 38,
+            "wickets": 2
+        },
+        {
+            "over": 10,
+            "runs": 43,
+            "wickets": 2
+        },
+        {
+            "over": 11,
+            "runs": 47,
+            "wickets": 2
+        },
+        {
+            "over": 12,
+            "runs": 52,
+            "wickets": 2
+        },
+        {
+            "over": 13,
+            "runs": 62,
+            "wickets": 2
+        },
+        {
+            "over": 14,
+            "runs": 74,
+            "wickets": 2
+        },
+        {
+            "over": 15,
+            "runs": 79,
+            "wickets": 2
+        },
+        {
+            "over": 16,
+            "runs": 86,
+            "wickets": 2
+        },
+        {
+            "over": 17,
+            "runs": 90,
+            "wickets": 2
+        },
+        {
+            "over": 18,
+            "runs": 97,
+            "wickets": 2
+        },
+        {
+            "over": 19,
+            "runs": 100,
+            "wickets": 2
+        },
+        {
+            "over": 20,
+            "runs": 104,
+            "wickets": 2
+        },
+        {
+            "over": 21,
+            "runs": 115,
+            "wickets": 2
+        },
+        {
+            "over": 22,
+            "runs": 121,
+            "wickets": 2
+        },
+        {
+            "over": 23,
+            "runs": 128,
+            "wickets": 2
+        },
+        {
+            "over": 24,
+            "runs": 133,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 136,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 139,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 144,
+            "wickets": 3
+        },
+        {
+            "over": 28,
+            "runs": 148,
+            "wickets": 3
+        },
+        {
+            "over": 29,
+            "runs": 155,
+            "wickets": 3
+        },
+        {
+            "over": 30,
+            "runs": 160,
+            "wickets": 3
+        },
+        {
+            "over": 31,
+            "runs": 165,
+            "wickets": 3
+        },
+        {
+            "over": 32,
+            "runs": 169,
+            "wickets": 3
+        },
+        {
+            "over": 33,
+            "runs": 176,
+            "wickets": 3
+        },
+        {
+            "over": 34,
+            "runs": 183,
+            "wickets": 3
+        },
+        {
+            "over": 35,
+            "runs": 191,
+            "wickets": 3
+        },
+        {
+            "over": 36,
+            "runs": 193,
+            "wickets": 3
+        },
+        {
+            "over": 37,
+            "runs": 201,
+            "wickets": 3
+        },
+        {
+            "over": 38,
+            "runs": 210,
+            "wickets": 3
+        },
+        {
+            "over": 39,
+            "runs": 219,
+            "wickets": 3
+        },
+        {
+            "over": 40,
+            "runs": 230,
+            "wickets": 3
+        },
+        {
+            "over": 41,
+            "runs": 239,
+            "wickets": 3
+        },
+        {
+            "over": 42,
+            "runs": 248,
+            "wickets": 3
+        },
+        {
+            "over": 43,
+            "runs": 255,
+            "wickets": 3
+        },
+        {
+            "over": 44,
+            "runs": 261,
+            "wickets": 3
+        },
+        {
+            "over": 45,
+            "runs": 270,
+            "wickets": 4
+        },
+        {
+            "over": 46,
+            "runs": 281,
+            "wickets": 4
+        },
+        {
+            "over": 47,
+            "runs": 285,
+            "wickets": 4
+        },
+        {
+            "over": 48,
+            "runs": 290,
+            "wickets": 4
+        },
+        {
+            "over": 49,
+            "runs": 295,
+            "wickets": 6
+        },
+        {
+            "over": 50,
+            "runs": 299,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 299,
+    "tot_wickets": 8,
+    "venue": "MA Chidambaram Stadium, Chepauk"
+}

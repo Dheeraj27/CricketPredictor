@@ -1,0 +1,260 @@
+{
+    "bat_team": "Australia",
+    "city": "Hobart",
+    "final_score": "280/6",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 1,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 9,
+            "wickets": 1
+        },
+        {
+            "over": 3,
+            "runs": 13,
+            "wickets": 1
+        },
+        {
+            "over": 4,
+            "runs": 14,
+            "wickets": 1
+        },
+        {
+            "over": 5,
+            "runs": 24,
+            "wickets": 1
+        },
+        {
+            "over": 6,
+            "runs": 26,
+            "wickets": 1
+        },
+        {
+            "over": 7,
+            "runs": 27,
+            "wickets": 2
+        },
+        {
+            "over": 8,
+            "runs": 31,
+            "wickets": 2
+        },
+        {
+            "over": 9,
+            "runs": 41,
+            "wickets": 2
+        },
+        {
+            "over": 10,
+            "runs": 44,
+            "wickets": 2
+        },
+        {
+            "over": 11,
+            "runs": 48,
+            "wickets": 2
+        },
+        {
+            "over": 12,
+            "runs": 50,
+            "wickets": 2
+        },
+        {
+            "over": 13,
+            "runs": 51,
+            "wickets": 2
+        },
+        {
+            "over": 14,
+            "runs": 59,
+            "wickets": 2
+        },
+        {
+            "over": 15,
+            "runs": 63,
+            "wickets": 2
+        },
+        {
+            "over": 16,
+            "runs": 66,
+            "wickets": 2
+        },
+        {
+            "over": 17,
+            "runs": 68,
+            "wickets": 2
+        },
+        {
+            "over": 18,
+            "runs": 72,
+            "wickets": 2
+        },
+        {
+            "over": 19,
+            "runs": 74,
+            "wickets": 2
+        },
+        {
+            "over": 20,
+            "runs": 81,
+            "wickets": 2
+        },
+        {
+            "over": 21,
+            "runs": 82,
+            "wickets": 2
+        },
+        {
+            "over": 22,
+            "runs": 86,
+            "wickets": 2
+        },
+        {
+            "over": 23,
+            "runs": 89,
+            "wickets": 2
+        },
+        {
+            "over": 24,
+            "runs": 94,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 99,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 105,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 118,
+            "wickets": 2
+        },
+        {
+            "over": 28,
+            "runs": 123,
+            "wickets": 2
+        },
+        {
+            "over": 29,
+            "runs": 125,
+            "wickets": 2
+        },
+        {
+            "over": 30,
+            "runs": 128,
+            "wickets": 2
+        },
+        {
+            "over": 31,
+            "runs": 132,
+            "wickets": 2
+        },
+        {
+            "over": 32,
+            "runs": 138,
+            "wickets": 2
+        },
+        {
+            "over": 33,
+            "runs": 148,
+            "wickets": 2
+        },
+        {
+            "over": 34,
+            "runs": 155,
+            "wickets": 2
+        },
+        {
+            "over": 35,
+            "runs": 167,
+            "wickets": 2
+        },
+        {
+            "over": 36,
+            "runs": 175,
+            "wickets": 2
+        },
+        {
+            "over": 37,
+            "runs": 178,
+            "wickets": 2
+        },
+        {
+            "over": 38,
+            "runs": 181,
+            "wickets": 2
+        },
+        {
+            "over": 39,
+            "runs": 183,
+            "wickets": 3
+        },
+        {
+            "over": 40,
+            "runs": 197,
+            "wickets": 3
+        },
+        {
+            "over": 41,
+            "runs": 205,
+            "wickets": 4
+        },
+        {
+            "over": 42,
+            "runs": 213,
+            "wickets": 4
+        },
+        {
+            "over": 43,
+            "runs": 228,
+            "wickets": 4
+        },
+        {
+            "over": 44,
+            "runs": 240,
+            "wickets": 4
+        },
+        {
+            "over": 45,
+            "runs": 245,
+            "wickets": 5
+        },
+        {
+            "over": 46,
+            "runs": 250,
+            "wickets": 6
+        },
+        {
+            "over": 47,
+            "runs": 254,
+            "wickets": 6
+        },
+        {
+            "over": 48,
+            "runs": 262,
+            "wickets": 6
+        },
+        {
+            "over": 49,
+            "runs": 272,
+            "wickets": 6
+        },
+        {
+            "over": 50,
+            "runs": 280,
+            "wickets": 6
+        }
+    ],
+    "tot_runs": 280,
+    "tot_wickets": 6,
+    "venue": "Bellerive Oval"
+}

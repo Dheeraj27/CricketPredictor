@@ -1,0 +1,260 @@
+{
+    "bat_team": "New Zealand",
+    "city": "Christchurch",
+    "final_score": "331/6",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 6,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 15,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 20,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 25,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 38,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 44,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 45,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 68,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 74,
+            "wickets": 0
+        },
+        {
+            "over": 10,
+            "runs": 77,
+            "wickets": 0
+        },
+        {
+            "over": 11,
+            "runs": 78,
+            "wickets": 0
+        },
+        {
+            "over": 12,
+            "runs": 87,
+            "wickets": 0
+        },
+        {
+            "over": 13,
+            "runs": 97,
+            "wickets": 0
+        },
+        {
+            "over": 14,
+            "runs": 104,
+            "wickets": 0
+        },
+        {
+            "over": 15,
+            "runs": 110,
+            "wickets": 0
+        },
+        {
+            "over": 16,
+            "runs": 111,
+            "wickets": 1
+        },
+        {
+            "over": 17,
+            "runs": 112,
+            "wickets": 1
+        },
+        {
+            "over": 18,
+            "runs": 114,
+            "wickets": 1
+        },
+        {
+            "over": 19,
+            "runs": 122,
+            "wickets": 1
+        },
+        {
+            "over": 20,
+            "runs": 127,
+            "wickets": 1
+        },
+        {
+            "over": 21,
+            "runs": 128,
+            "wickets": 1
+        },
+        {
+            "over": 22,
+            "runs": 132,
+            "wickets": 1
+        },
+        {
+            "over": 23,
+            "runs": 137,
+            "wickets": 2
+        },
+        {
+            "over": 24,
+            "runs": 142,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 145,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 149,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 151,
+            "wickets": 2
+        },
+        {
+            "over": 28,
+            "runs": 153,
+            "wickets": 2
+        },
+        {
+            "over": 29,
+            "runs": 158,
+            "wickets": 2
+        },
+        {
+            "over": 30,
+            "runs": 166,
+            "wickets": 2
+        },
+        {
+            "over": 31,
+            "runs": 170,
+            "wickets": 2
+        },
+        {
+            "over": 32,
+            "runs": 183,
+            "wickets": 2
+        },
+        {
+            "over": 33,
+            "runs": 192,
+            "wickets": 2
+        },
+        {
+            "over": 34,
+            "runs": 193,
+            "wickets": 4
+        },
+        {
+            "over": 35,
+            "runs": 196,
+            "wickets": 4
+        },
+        {
+            "over": 36,
+            "runs": 197,
+            "wickets": 4
+        },
+        {
+            "over": 37,
+            "runs": 210,
+            "wickets": 4
+        },
+        {
+            "over": 38,
+            "runs": 217,
+            "wickets": 4
+        },
+        {
+            "over": 39,
+            "runs": 225,
+            "wickets": 4
+        },
+        {
+            "over": 40,
+            "runs": 229,
+            "wickets": 4
+        },
+        {
+            "over": 41,
+            "runs": 238,
+            "wickets": 4
+        },
+        {
+            "over": 42,
+            "runs": 242,
+            "wickets": 4
+        },
+        {
+            "over": 43,
+            "runs": 252,
+            "wickets": 4
+        },
+        {
+            "over": 44,
+            "runs": 260,
+            "wickets": 5
+        },
+        {
+            "over": 45,
+            "runs": 270,
+            "wickets": 5
+        },
+        {
+            "over": 46,
+            "runs": 287,
+            "wickets": 5
+        },
+        {
+            "over": 47,
+            "runs": 294,
+            "wickets": 5
+        },
+        {
+            "over": 48,
+            "runs": 309,
+            "wickets": 5
+        },
+        {
+            "over": 49,
+            "runs": 319,
+            "wickets": 5
+        },
+        {
+            "over": 50,
+            "runs": 331,
+            "wickets": 6
+        }
+    ],
+    "tot_runs": 331,
+    "tot_wickets": 6,
+    "venue": "Hagley Oval"
+}

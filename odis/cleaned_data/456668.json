@@ -1,0 +1,259 @@
+{
+    "bat_team": "Sri Lanka",
+    "final_score": "299/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 3,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 7,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 15,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 15,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 21,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 28,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 34,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 43,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 47,
+            "wickets": 0
+        },
+        {
+            "over": 10,
+            "runs": 52,
+            "wickets": 0
+        },
+        {
+            "over": 11,
+            "runs": 59,
+            "wickets": 0
+        },
+        {
+            "over": 12,
+            "runs": 74,
+            "wickets": 0
+        },
+        {
+            "over": 13,
+            "runs": 79,
+            "wickets": 0
+        },
+        {
+            "over": 14,
+            "runs": 85,
+            "wickets": 0
+        },
+        {
+            "over": 15,
+            "runs": 94,
+            "wickets": 0
+        },
+        {
+            "over": 16,
+            "runs": 103,
+            "wickets": 0
+        },
+        {
+            "over": 17,
+            "runs": 108,
+            "wickets": 0
+        },
+        {
+            "over": 18,
+            "runs": 112,
+            "wickets": 0
+        },
+        {
+            "over": 19,
+            "runs": 115,
+            "wickets": 0
+        },
+        {
+            "over": 20,
+            "runs": 120,
+            "wickets": 0
+        },
+        {
+            "over": 21,
+            "runs": 122,
+            "wickets": 1
+        },
+        {
+            "over": 22,
+            "runs": 124,
+            "wickets": 1
+        },
+        {
+            "over": 23,
+            "runs": 127,
+            "wickets": 1
+        },
+        {
+            "over": 24,
+            "runs": 133,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 142,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 145,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 147,
+            "wickets": 2
+        },
+        {
+            "over": 28,
+            "runs": 153,
+            "wickets": 2
+        },
+        {
+            "over": 29,
+            "runs": 157,
+            "wickets": 2
+        },
+        {
+            "over": 30,
+            "runs": 163,
+            "wickets": 2
+        },
+        {
+            "over": 31,
+            "runs": 166,
+            "wickets": 2
+        },
+        {
+            "over": 32,
+            "runs": 171,
+            "wickets": 2
+        },
+        {
+            "over": 33,
+            "runs": 174,
+            "wickets": 2
+        },
+        {
+            "over": 34,
+            "runs": 176,
+            "wickets": 2
+        },
+        {
+            "over": 35,
+            "runs": 185,
+            "wickets": 2
+        },
+        {
+            "over": 36,
+            "runs": 192,
+            "wickets": 2
+        },
+        {
+            "over": 37,
+            "runs": 199,
+            "wickets": 2
+        },
+        {
+            "over": 38,
+            "runs": 203,
+            "wickets": 2
+        },
+        {
+            "over": 39,
+            "runs": 209,
+            "wickets": 2
+        },
+        {
+            "over": 40,
+            "runs": 219,
+            "wickets": 3
+        },
+        {
+            "over": 41,
+            "runs": 224,
+            "wickets": 3
+        },
+        {
+            "over": 42,
+            "runs": 241,
+            "wickets": 3
+        },
+        {
+            "over": 43,
+            "runs": 244,
+            "wickets": 4
+        },
+        {
+            "over": 44,
+            "runs": 258,
+            "wickets": 5
+        },
+        {
+            "over": 45,
+            "runs": 261,
+            "wickets": 6
+        },
+        {
+            "over": 46,
+            "runs": 268,
+            "wickets": 6
+        },
+        {
+            "over": 47,
+            "runs": 274,
+            "wickets": 6
+        },
+        {
+            "over": 48,
+            "runs": 282,
+            "wickets": 6
+        },
+        {
+            "over": 49,
+            "runs": 294,
+            "wickets": 6
+        },
+        {
+            "over": 50,
+            "runs": 299,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 299,
+    "tot_wickets": 8,
+    "venue": "Rangiri Dambulla International Stadium"
+}

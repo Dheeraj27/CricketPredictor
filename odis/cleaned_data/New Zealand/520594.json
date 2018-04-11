@@ -1,0 +1,260 @@
+{
+    "bat_team": "New Zealand",
+    "city": "Napier",
+    "final_score": "373/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 6,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 10,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 22,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 23,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 40,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 45,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 53,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 68,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 81,
+            "wickets": 0
+        },
+        {
+            "over": 10,
+            "runs": 83,
+            "wickets": 0
+        },
+        {
+            "over": 11,
+            "runs": 86,
+            "wickets": 0
+        },
+        {
+            "over": 12,
+            "runs": 89,
+            "wickets": 0
+        },
+        {
+            "over": 13,
+            "runs": 92,
+            "wickets": 0
+        },
+        {
+            "over": 14,
+            "runs": 98,
+            "wickets": 0
+        },
+        {
+            "over": 15,
+            "runs": 101,
+            "wickets": 0
+        },
+        {
+            "over": 16,
+            "runs": 118,
+            "wickets": 0
+        },
+        {
+            "over": 17,
+            "runs": 126,
+            "wickets": 0
+        },
+        {
+            "over": 18,
+            "runs": 129,
+            "wickets": 0
+        },
+        {
+            "over": 19,
+            "runs": 130,
+            "wickets": 0
+        },
+        {
+            "over": 20,
+            "runs": 135,
+            "wickets": 0
+        },
+        {
+            "over": 21,
+            "runs": 148,
+            "wickets": 0
+        },
+        {
+            "over": 22,
+            "runs": 153,
+            "wickets": 1
+        },
+        {
+            "over": 23,
+            "runs": 157,
+            "wickets": 2
+        },
+        {
+            "over": 24,
+            "runs": 157,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 161,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 166,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 172,
+            "wickets": 2
+        },
+        {
+            "over": 28,
+            "runs": 176,
+            "wickets": 2
+        },
+        {
+            "over": 29,
+            "runs": 186,
+            "wickets": 2
+        },
+        {
+            "over": 30,
+            "runs": 192,
+            "wickets": 3
+        },
+        {
+            "over": 31,
+            "runs": 198,
+            "wickets": 3
+        },
+        {
+            "over": 32,
+            "runs": 203,
+            "wickets": 3
+        },
+        {
+            "over": 33,
+            "runs": 208,
+            "wickets": 3
+        },
+        {
+            "over": 34,
+            "runs": 212,
+            "wickets": 3
+        },
+        {
+            "over": 35,
+            "runs": 216,
+            "wickets": 3
+        },
+        {
+            "over": 36,
+            "runs": 223,
+            "wickets": 3
+        },
+        {
+            "over": 37,
+            "runs": 234,
+            "wickets": 3
+        },
+        {
+            "over": 38,
+            "runs": 241,
+            "wickets": 3
+        },
+        {
+            "over": 39,
+            "runs": 246,
+            "wickets": 3
+        },
+        {
+            "over": 40,
+            "runs": 252,
+            "wickets": 3
+        },
+        {
+            "over": 41,
+            "runs": 266,
+            "wickets": 3
+        },
+        {
+            "over": 42,
+            "runs": 274,
+            "wickets": 3
+        },
+        {
+            "over": 43,
+            "runs": 284,
+            "wickets": 4
+        },
+        {
+            "over": 44,
+            "runs": 293,
+            "wickets": 4
+        },
+        {
+            "over": 45,
+            "runs": 319,
+            "wickets": 4
+        },
+        {
+            "over": 46,
+            "runs": 325,
+            "wickets": 5
+        },
+        {
+            "over": 47,
+            "runs": 341,
+            "wickets": 5
+        },
+        {
+            "over": 48,
+            "runs": 347,
+            "wickets": 6
+        },
+        {
+            "over": 49,
+            "runs": 364,
+            "wickets": 7
+        },
+        {
+            "over": 50,
+            "runs": 373,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 373,
+    "tot_wickets": 8,
+    "venue": "McLean Park"
+}

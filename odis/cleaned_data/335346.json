@@ -1,0 +1,260 @@
+{
+    "bat_team": "Bangladesh",
+    "city": "Lahore",
+    "final_score": "300/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 4,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 10,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 15,
+            "wickets": 1
+        },
+        {
+            "over": 4,
+            "runs": 18,
+            "wickets": 1
+        },
+        {
+            "over": 5,
+            "runs": 26,
+            "wickets": 1
+        },
+        {
+            "over": 6,
+            "runs": 26,
+            "wickets": 1
+        },
+        {
+            "over": 7,
+            "runs": 28,
+            "wickets": 1
+        },
+        {
+            "over": 8,
+            "runs": 34,
+            "wickets": 1
+        },
+        {
+            "over": 9,
+            "runs": 46,
+            "wickets": 1
+        },
+        {
+            "over": 10,
+            "runs": 52,
+            "wickets": 1
+        },
+        {
+            "over": 11,
+            "runs": 64,
+            "wickets": 1
+        },
+        {
+            "over": 12,
+            "runs": 65,
+            "wickets": 1
+        },
+        {
+            "over": 13,
+            "runs": 69,
+            "wickets": 1
+        },
+        {
+            "over": 14,
+            "runs": 72,
+            "wickets": 1
+        },
+        {
+            "over": 15,
+            "runs": 73,
+            "wickets": 1
+        },
+        {
+            "over": 16,
+            "runs": 75,
+            "wickets": 1
+        },
+        {
+            "over": 17,
+            "runs": 77,
+            "wickets": 1
+        },
+        {
+            "over": 18,
+            "runs": 80,
+            "wickets": 1
+        },
+        {
+            "over": 19,
+            "runs": 82,
+            "wickets": 1
+        },
+        {
+            "over": 20,
+            "runs": 85,
+            "wickets": 1
+        },
+        {
+            "over": 21,
+            "runs": 91,
+            "wickets": 1
+        },
+        {
+            "over": 22,
+            "runs": 98,
+            "wickets": 1
+        },
+        {
+            "over": 23,
+            "runs": 105,
+            "wickets": 1
+        },
+        {
+            "over": 24,
+            "runs": 110,
+            "wickets": 2
+        },
+        {
+            "over": 25,
+            "runs": 121,
+            "wickets": 2
+        },
+        {
+            "over": 26,
+            "runs": 124,
+            "wickets": 2
+        },
+        {
+            "over": 27,
+            "runs": 129,
+            "wickets": 2
+        },
+        {
+            "over": 28,
+            "runs": 134,
+            "wickets": 2
+        },
+        {
+            "over": 29,
+            "runs": 140,
+            "wickets": 2
+        },
+        {
+            "over": 30,
+            "runs": 151,
+            "wickets": 2
+        },
+        {
+            "over": 31,
+            "runs": 155,
+            "wickets": 2
+        },
+        {
+            "over": 32,
+            "runs": 162,
+            "wickets": 2
+        },
+        {
+            "over": 33,
+            "runs": 170,
+            "wickets": 2
+        },
+        {
+            "over": 34,
+            "runs": 177,
+            "wickets": 2
+        },
+        {
+            "over": 35,
+            "runs": 182,
+            "wickets": 2
+        },
+        {
+            "over": 36,
+            "runs": 186,
+            "wickets": 2
+        },
+        {
+            "over": 37,
+            "runs": 188,
+            "wickets": 2
+        },
+        {
+            "over": 38,
+            "runs": 198,
+            "wickets": 2
+        },
+        {
+            "over": 39,
+            "runs": 204,
+            "wickets": 2
+        },
+        {
+            "over": 40,
+            "runs": 209,
+            "wickets": 2
+        },
+        {
+            "over": 41,
+            "runs": 224,
+            "wickets": 2
+        },
+        {
+            "over": 42,
+            "runs": 229,
+            "wickets": 2
+        },
+        {
+            "over": 43,
+            "runs": 245,
+            "wickets": 2
+        },
+        {
+            "over": 44,
+            "runs": 250,
+            "wickets": 4
+        },
+        {
+            "over": 45,
+            "runs": 256,
+            "wickets": 5
+        },
+        {
+            "over": 46,
+            "runs": 259,
+            "wickets": 6
+        },
+        {
+            "over": 47,
+            "runs": 265,
+            "wickets": 6
+        },
+        {
+            "over": 48,
+            "runs": 278,
+            "wickets": 6
+        },
+        {
+            "over": 49,
+            "runs": 290,
+            "wickets": 7
+        },
+        {
+            "over": 50,
+            "runs": 300,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 300,
+    "tot_wickets": 8,
+    "venue": "Gaddafi Stadium"
+}

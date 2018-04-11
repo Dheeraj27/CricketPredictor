@@ -1,0 +1,260 @@
+{
+    "bat_team": "Zimbabwe",
+    "city": "Antigua",
+    "final_score": "151/9",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 5,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 6,
+            "wickets": 1
+        },
+        {
+            "over": 3,
+            "runs": 8,
+            "wickets": 1
+        },
+        {
+            "over": 4,
+            "runs": 8,
+            "wickets": 1
+        },
+        {
+            "over": 5,
+            "runs": 9,
+            "wickets": 1
+        },
+        {
+            "over": 6,
+            "runs": 11,
+            "wickets": 1
+        },
+        {
+            "over": 7,
+            "runs": 11,
+            "wickets": 1
+        },
+        {
+            "over": 8,
+            "runs": 13,
+            "wickets": 1
+        },
+        {
+            "over": 9,
+            "runs": 14,
+            "wickets": 1
+        },
+        {
+            "over": 10,
+            "runs": 14,
+            "wickets": 1
+        },
+        {
+            "over": 11,
+            "runs": 15,
+            "wickets": 1
+        },
+        {
+            "over": 12,
+            "runs": 18,
+            "wickets": 1
+        },
+        {
+            "over": 13,
+            "runs": 22,
+            "wickets": 1
+        },
+        {
+            "over": 14,
+            "runs": 26,
+            "wickets": 1
+        },
+        {
+            "over": 15,
+            "runs": 31,
+            "wickets": 1
+        },
+        {
+            "over": 16,
+            "runs": 34,
+            "wickets": 1
+        },
+        {
+            "over": 17,
+            "runs": 36,
+            "wickets": 1
+        },
+        {
+            "over": 18,
+            "runs": 37,
+            "wickets": 1
+        },
+        {
+            "over": 19,
+            "runs": 37,
+            "wickets": 1
+        },
+        {
+            "over": 20,
+            "runs": 44,
+            "wickets": 1
+        },
+        {
+            "over": 21,
+            "runs": 51,
+            "wickets": 1
+        },
+        {
+            "over": 22,
+            "runs": 56,
+            "wickets": 1
+        },
+        {
+            "over": 23,
+            "runs": 61,
+            "wickets": 1
+        },
+        {
+            "over": 24,
+            "runs": 62,
+            "wickets": 1
+        },
+        {
+            "over": 25,
+            "runs": 65,
+            "wickets": 1
+        },
+        {
+            "over": 26,
+            "runs": 68,
+            "wickets": 1
+        },
+        {
+            "over": 27,
+            "runs": 69,
+            "wickets": 2
+        },
+        {
+            "over": 28,
+            "runs": 70,
+            "wickets": 2
+        },
+        {
+            "over": 29,
+            "runs": 79,
+            "wickets": 2
+        },
+        {
+            "over": 30,
+            "runs": 84,
+            "wickets": 2
+        },
+        {
+            "over": 31,
+            "runs": 88,
+            "wickets": 2
+        },
+        {
+            "over": 32,
+            "runs": 90,
+            "wickets": 2
+        },
+        {
+            "over": 33,
+            "runs": 91,
+            "wickets": 2
+        },
+        {
+            "over": 34,
+            "runs": 94,
+            "wickets": 2
+        },
+        {
+            "over": 35,
+            "runs": 95,
+            "wickets": 2
+        },
+        {
+            "over": 36,
+            "runs": 103,
+            "wickets": 2
+        },
+        {
+            "over": 37,
+            "runs": 106,
+            "wickets": 3
+        },
+        {
+            "over": 38,
+            "runs": 108,
+            "wickets": 3
+        },
+        {
+            "over": 39,
+            "runs": 115,
+            "wickets": 3
+        },
+        {
+            "over": 40,
+            "runs": 125,
+            "wickets": 4
+        },
+        {
+            "over": 41,
+            "runs": 126,
+            "wickets": 5
+        },
+        {
+            "over": 42,
+            "runs": 128,
+            "wickets": 5
+        },
+        {
+            "over": 43,
+            "runs": 128,
+            "wickets": 5
+        },
+        {
+            "over": 44,
+            "runs": 132,
+            "wickets": 5
+        },
+        {
+            "over": 45,
+            "runs": 141,
+            "wickets": 6
+        },
+        {
+            "over": 46,
+            "runs": 142,
+            "wickets": 8
+        },
+        {
+            "over": 47,
+            "runs": 143,
+            "wickets": 8
+        },
+        {
+            "over": 48,
+            "runs": 147,
+            "wickets": 8
+        },
+        {
+            "over": 49,
+            "runs": 149,
+            "wickets": 8
+        },
+        {
+            "over": 50,
+            "runs": 151,
+            "wickets": 9
+        }
+    ],
+    "tot_runs": 151,
+    "tot_wickets": 9,
+    "venue": "Antigua Recreation Ground, St John's"
+}

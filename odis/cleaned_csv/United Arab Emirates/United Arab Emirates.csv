@@ -1,0 +1,901 @@
+,Unnamed: 0,over,runs,wickets,bat_team,tot_runs,tot_wickets,city,venue,final_score
+0,0,1,2,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+1,1,2,4,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+2,2,3,10,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+3,3,4,19,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+4,4,5,23,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+5,5,6,27,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+6,6,7,30,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+7,7,8,31,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+8,8,9,32,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+9,9,10,34,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+10,10,11,40,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+11,11,12,52,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+12,12,13,60,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+13,13,14,63,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+14,14,15,71,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+15,15,16,79,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+16,16,17,81,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+17,17,18,86,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+18,18,19,90,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+19,19,20,92,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+20,20,21,94,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+21,21,22,97,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+22,22,23,100,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+23,23,24,106,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+24,24,25,109,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+25,25,26,115,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+26,26,27,122,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+27,27,28,128,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+28,28,29,130,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+29,29,30,134,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+30,30,31,134,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+31,31,32,142,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+32,32,33,143,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+33,33,34,154,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+34,34,35,156,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+35,35,36,165,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+36,36,37,174,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+37,37,38,182,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+38,38,39,193,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+39,39,40,204,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+40,40,41,214,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+41,41,42,218,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+42,42,43,227,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+43,43,44,232,6,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+44,44,45,233,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+45,45,46,246,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+46,46,47,250,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+47,47,48,254,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+48,48,49,274,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+49,49,50,285,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+0,0,1,2,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+1,1,2,4,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+2,2,3,10,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+3,3,4,19,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+4,4,5,23,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+5,5,6,27,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+6,6,7,30,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+7,7,8,31,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+8,8,9,32,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+9,9,10,34,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+10,10,11,40,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+11,11,12,52,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+12,12,13,60,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+13,13,14,63,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+14,14,15,71,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+15,15,16,79,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+16,16,17,81,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+17,17,18,86,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+18,18,19,90,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+19,19,20,92,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+20,20,21,94,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+21,21,22,97,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+22,22,23,100,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+23,23,24,106,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+24,24,25,109,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+25,25,26,115,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+26,26,27,122,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+27,27,28,128,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+28,28,29,130,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+29,29,30,134,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+30,30,31,134,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+31,31,32,142,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+32,32,33,143,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+33,33,34,154,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+34,34,35,156,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+35,35,36,165,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+36,36,37,174,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+37,37,38,182,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+38,38,39,193,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+39,39,40,204,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+40,40,41,214,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+41,41,42,218,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+42,42,43,227,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+43,43,44,232,6,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+44,44,45,233,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+45,45,46,246,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+46,46,47,250,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+47,47,48,254,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+48,48,49,274,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+49,49,50,285,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+50,0,1,2,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+51,1,2,4,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+52,2,3,10,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+53,3,4,19,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+54,4,5,23,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+55,5,6,27,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+56,6,7,30,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+57,7,8,31,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+58,8,9,32,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+59,9,10,34,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+60,10,11,40,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+61,11,12,52,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+62,12,13,60,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+63,13,14,63,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+64,14,15,71,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+65,15,16,79,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+66,16,17,81,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+67,17,18,86,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+68,18,19,90,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+69,19,20,92,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+70,20,21,94,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+71,21,22,97,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+72,22,23,100,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+73,23,24,106,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+74,24,25,109,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+75,25,26,115,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+76,26,27,122,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+77,27,28,128,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+78,28,29,130,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+79,29,30,134,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+80,30,31,134,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+81,31,32,142,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+82,32,33,143,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+83,33,34,154,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+84,34,35,156,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+85,35,36,165,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+86,36,37,174,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+87,37,38,182,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+88,38,39,193,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+89,39,40,204,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+90,40,41,214,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+91,41,42,218,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+92,42,43,227,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+93,43,44,232,6,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+94,44,45,233,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+95,45,46,246,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+96,46,47,250,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+97,47,48,254,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+98,48,49,274,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+99,49,50,285,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+100,50,1,2,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+101,51,2,4,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+102,52,3,10,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+103,53,4,19,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+104,54,5,23,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+105,55,6,27,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+106,56,7,30,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+107,57,8,31,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+108,58,9,32,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+109,59,10,34,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+110,60,11,40,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+111,61,12,52,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+112,62,13,60,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+113,63,14,63,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+114,64,15,71,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+115,65,16,79,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+116,66,17,81,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+117,67,18,86,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+118,68,19,90,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+119,69,20,92,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+120,70,21,94,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+121,71,22,97,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+122,72,23,100,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+123,73,24,106,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+124,74,25,109,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+125,75,26,115,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+126,76,27,122,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+127,77,28,128,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+128,78,29,130,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+129,79,30,134,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+130,80,31,134,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+131,81,32,142,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+132,82,33,143,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+133,83,34,154,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+134,84,35,156,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+135,85,36,165,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+136,86,37,174,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+137,87,38,182,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+138,88,39,193,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+139,89,40,204,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+140,90,41,214,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+141,91,42,218,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+142,92,43,227,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+143,93,44,232,6,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+144,94,45,233,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+145,95,46,246,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+146,96,47,250,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+147,97,48,254,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+148,98,49,274,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+149,99,50,285,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+150,100,1,2,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+151,101,2,4,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+152,102,3,10,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+153,103,4,19,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+154,104,5,23,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+155,105,6,27,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+156,106,7,30,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+157,107,8,31,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+158,108,9,32,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+159,109,10,34,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+160,110,11,40,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+161,111,12,52,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+162,112,13,60,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+163,113,14,63,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+164,114,15,71,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+165,115,16,79,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+166,116,17,81,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+167,117,18,86,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+168,118,19,90,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+169,119,20,92,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+170,120,21,94,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+171,121,22,97,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+172,122,23,100,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+173,123,24,106,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+174,124,25,109,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+175,125,26,115,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+176,126,27,122,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+177,127,28,128,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+178,128,29,130,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+179,129,30,134,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+180,130,31,134,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+181,131,32,142,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+182,132,33,143,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+183,133,34,154,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+184,134,35,156,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+185,135,36,165,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+186,136,37,174,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+187,137,38,182,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+188,138,39,193,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+189,139,40,204,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+190,140,41,214,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+191,141,42,218,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+192,142,43,227,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+193,143,44,232,6,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+194,144,45,233,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+195,145,46,246,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+196,146,47,250,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+197,147,48,254,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+198,148,49,274,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+199,149,50,285,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+200,150,1,2,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+201,151,2,4,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+202,152,3,10,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+203,153,4,19,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+204,154,5,23,0,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+205,155,6,27,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+206,156,7,30,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+207,157,8,31,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+208,158,9,32,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+209,159,10,34,1,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+210,160,11,40,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+211,161,12,52,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+212,162,13,60,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+213,163,14,63,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+214,164,15,71,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+215,165,16,79,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+216,166,17,81,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+217,167,18,86,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+218,168,19,90,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+219,169,20,92,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+220,170,21,94,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+221,171,22,97,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+222,172,23,100,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+223,173,24,106,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+224,174,25,109,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+225,175,26,115,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+226,176,27,122,2,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+227,177,28,128,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+228,178,29,130,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+229,179,30,134,3,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+230,180,31,134,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+231,181,32,142,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+232,182,33,143,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+233,183,34,154,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+234,184,35,156,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+235,185,36,165,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+236,186,37,174,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+237,187,38,182,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+238,188,39,193,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+239,189,40,204,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+240,190,41,214,4,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+241,191,42,218,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+242,192,43,227,5,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+243,193,44,232,6,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+244,194,45,233,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+245,195,46,246,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+246,196,47,250,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+247,197,48,254,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+248,198,49,274,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+249,199,50,285,7,United Arab Emirates,285,7,Nelson,Saxton Oval,285/7
+250,200,1,2,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+251,201,2,6,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+252,202,3,14,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+253,203,4,21,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+254,204,5,31,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+255,205,6,38,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+256,206,7,45,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+257,207,8,48,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+258,208,9,56,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+259,209,10,58,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+260,210,11,62,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+261,211,12,67,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+262,212,13,73,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+263,213,14,74,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+264,214,15,79,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+265,215,16,82,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+266,216,17,87,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+267,217,18,89,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+268,218,19,90,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+269,219,20,93,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+270,220,21,98,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+271,221,22,101,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+272,222,23,111,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+273,223,24,118,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+274,224,25,125,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+275,225,26,126,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+276,226,27,129,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+277,227,28,134,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+278,228,29,139,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+279,229,30,143,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+280,230,31,148,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+281,231,32,153,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+282,232,33,158,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+283,233,34,165,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+284,234,35,170,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+285,235,36,175,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+286,236,37,183,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+287,237,38,185,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+288,238,39,186,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+289,239,40,189,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+290,240,41,193,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+291,241,42,199,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+292,242,43,210,4,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+293,243,44,211,5,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+294,244,45,214,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+295,245,46,222,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+296,246,47,226,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+297,247,48,230,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+298,248,49,243,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+299,249,50,251,9,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+300,250,1,3,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+301,251,2,8,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+302,252,3,16,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+303,253,4,23,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+304,254,5,26,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+305,255,6,27,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+306,256,7,31,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+307,257,8,42,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+308,258,9,43,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+309,259,10,44,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+310,260,11,48,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+311,261,12,49,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+312,262,13,53,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+313,263,14,54,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+314,264,15,55,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+315,265,16,61,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+316,266,17,64,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+317,267,18,69,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+318,268,19,73,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+319,269,20,75,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+320,270,21,78,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+321,271,22,80,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+322,272,23,88,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+323,273,24,89,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+324,274,25,92,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+325,275,26,94,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+326,276,27,100,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+327,277,28,106,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+328,278,29,109,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+329,279,30,116,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+330,280,31,122,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+331,281,32,125,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+332,282,33,128,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+333,283,34,130,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+334,284,35,131,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+335,285,36,137,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+336,286,37,149,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+337,287,38,151,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+338,288,39,167,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+339,289,40,178,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+340,290,41,192,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+341,291,42,200,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+342,292,43,214,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+343,293,44,225,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+344,294,45,230,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+345,295,46,238,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+346,296,47,246,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+347,297,48,265,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+348,298,49,270,8,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+349,299,50,278,9,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+350,300,1,2,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+351,301,2,6,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+352,302,3,14,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+353,303,4,21,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+354,304,5,31,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+355,305,6,38,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+356,306,7,45,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+357,307,8,48,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+358,308,9,56,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+359,309,10,58,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+360,310,11,62,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+361,311,12,67,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+362,312,13,73,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+363,313,14,74,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+364,314,15,79,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+365,315,16,82,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+366,316,17,87,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+367,317,18,89,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+368,318,19,90,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+369,319,20,93,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+370,320,21,98,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+371,321,22,101,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+372,322,23,111,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+373,323,24,118,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+374,324,25,125,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+375,325,26,126,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+376,326,27,129,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+377,327,28,134,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+378,328,29,139,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+379,329,30,143,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+380,330,31,148,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+381,331,32,153,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+382,332,33,158,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+383,333,34,165,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+384,334,35,170,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+385,335,36,175,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+386,336,37,183,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+387,337,38,185,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+388,338,39,186,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+389,339,40,189,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+390,340,41,193,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+391,341,42,199,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+392,342,43,210,4,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+393,343,44,211,5,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+394,344,45,214,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+395,345,46,222,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+396,346,47,226,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+397,347,48,230,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+398,348,49,243,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+399,349,50,251,9,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+400,350,1,3,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+401,351,2,8,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+402,352,3,16,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+403,353,4,23,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+404,354,5,26,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+405,355,6,27,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+406,356,7,31,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+407,357,8,42,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+408,358,9,43,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+409,359,10,44,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+410,360,11,48,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+411,361,12,49,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+412,362,13,53,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+413,363,14,54,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+414,364,15,55,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+415,365,16,61,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+416,366,17,64,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+417,367,18,69,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+418,368,19,73,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+419,369,20,75,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+420,370,21,78,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+421,371,22,80,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+422,372,23,88,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+423,373,24,89,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+424,374,25,92,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+425,375,26,94,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+426,376,27,100,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+427,377,28,106,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+428,378,29,109,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+429,379,30,116,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+430,380,31,122,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+431,381,32,125,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+432,382,33,128,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+433,383,34,130,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+434,384,35,131,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+435,385,36,137,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+436,386,37,149,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+437,387,38,151,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+438,388,39,167,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+439,389,40,178,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+440,390,41,192,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+441,391,42,200,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+442,392,43,214,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+443,393,44,225,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+444,394,45,230,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+445,395,46,238,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+446,396,47,246,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+447,397,48,265,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+448,398,49,270,8,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+449,399,50,278,9,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+450,400,1,2,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+451,401,2,6,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+452,402,3,14,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+453,403,4,21,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+454,404,5,31,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+455,405,6,38,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+456,406,7,45,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+457,407,8,48,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+458,408,9,56,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+459,409,10,58,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+460,410,11,62,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+461,411,12,67,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+462,412,13,73,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+463,413,14,74,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+464,414,15,79,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+465,415,16,82,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+466,416,17,87,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+467,417,18,89,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+468,418,19,90,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+469,419,20,93,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+470,420,21,98,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+471,421,22,101,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+472,422,23,111,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+473,423,24,118,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+474,424,25,125,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+475,425,26,126,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+476,426,27,129,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+477,427,28,134,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+478,428,29,139,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+479,429,30,143,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+480,430,31,148,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+481,431,32,153,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+482,432,33,158,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+483,433,34,165,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+484,434,35,170,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+485,435,36,175,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+486,436,37,183,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+487,437,38,185,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+488,438,39,186,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+489,439,40,189,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+490,440,41,193,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+491,441,42,199,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+492,442,43,210,4,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+493,443,44,211,5,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+494,444,45,214,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+495,445,46,222,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+496,446,47,226,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+497,447,48,230,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+498,448,49,243,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+499,449,50,251,9,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+500,450,1,3,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+501,451,2,8,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+502,452,3,16,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+503,453,4,23,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+504,454,5,26,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+505,455,6,27,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+506,456,7,31,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+507,457,8,42,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+508,458,9,43,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+509,459,10,44,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+510,460,11,48,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+511,461,12,49,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+512,462,13,53,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+513,463,14,54,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+514,464,15,55,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+515,465,16,61,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+516,466,17,64,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+517,467,18,69,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+518,468,19,73,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+519,469,20,75,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+520,470,21,78,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+521,471,22,80,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+522,472,23,88,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+523,473,24,89,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+524,474,25,92,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+525,475,26,94,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+526,476,27,100,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+527,477,28,106,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+528,478,29,109,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+529,479,30,116,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+530,480,31,122,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+531,481,32,125,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+532,482,33,128,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+533,483,34,130,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+534,484,35,131,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+535,485,36,137,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+536,486,37,149,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+537,487,38,151,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+538,488,39,167,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+539,489,40,178,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+540,490,41,192,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+541,491,42,200,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+542,492,43,214,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+543,493,44,225,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+544,494,45,230,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+545,495,46,238,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+546,496,47,246,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+547,497,48,265,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+548,498,49,270,8,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+549,499,50,278,9,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+550,500,1,2,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+551,501,2,6,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+552,502,3,14,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+553,503,4,21,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+554,504,5,31,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+555,505,6,38,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+556,506,7,45,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+557,507,8,48,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+558,508,9,56,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+559,509,10,58,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+560,510,11,62,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+561,511,12,67,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+562,512,13,73,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+563,513,14,74,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+564,514,15,79,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+565,515,16,82,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+566,516,17,87,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+567,517,18,89,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+568,518,19,90,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+569,519,20,93,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+570,520,21,98,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+571,521,22,101,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+572,522,23,111,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+573,523,24,118,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+574,524,25,125,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+575,525,26,126,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+576,526,27,129,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+577,527,28,134,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+578,528,29,139,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+579,529,30,143,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+580,530,31,148,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+581,531,32,153,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+582,532,33,158,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+583,533,34,165,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+584,534,35,170,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+585,535,36,175,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+586,536,37,183,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+587,537,38,185,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+588,538,39,186,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+589,539,40,189,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+590,540,41,193,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+591,541,42,199,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+592,542,43,210,4,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+593,543,44,211,5,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+594,544,45,214,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+595,545,46,222,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+596,546,47,226,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+597,547,48,230,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+598,548,49,243,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+599,549,50,251,9,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+600,550,1,3,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+601,551,2,8,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+602,552,3,16,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+603,553,4,23,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+604,554,5,26,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+605,555,6,27,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+606,556,7,31,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+607,557,8,42,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+608,558,9,43,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+609,559,10,44,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+610,560,11,48,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+611,561,12,49,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+612,562,13,53,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+613,563,14,54,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+614,564,15,55,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+615,565,16,61,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+616,566,17,64,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+617,567,18,69,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+618,568,19,73,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+619,569,20,75,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+620,570,21,78,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+621,571,22,80,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+622,572,23,88,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+623,573,24,89,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+624,574,25,92,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+625,575,26,94,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+626,576,27,100,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+627,577,28,106,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+628,578,29,109,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+629,579,30,116,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+630,580,31,122,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+631,581,32,125,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+632,582,33,128,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+633,583,34,130,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+634,584,35,131,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+635,585,36,137,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+636,586,37,149,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+637,587,38,151,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+638,588,39,167,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+639,589,40,178,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+640,590,41,192,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+641,591,42,200,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+642,592,43,214,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+643,593,44,225,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+644,594,45,230,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+645,595,46,238,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+646,596,47,246,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+647,597,48,265,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+648,598,49,270,8,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+649,599,50,278,9,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+650,0,1,2,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+651,1,2,6,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+652,2,3,14,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+653,3,4,21,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+654,4,5,31,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+655,5,6,38,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+656,6,7,45,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+657,7,8,48,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+658,8,9,56,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+659,9,10,58,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+660,10,11,62,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+661,11,12,67,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+662,12,13,73,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+663,13,14,74,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+664,14,15,79,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+665,15,16,82,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+666,16,17,87,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+667,17,18,89,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+668,18,19,90,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+669,19,20,93,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+670,20,21,98,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+671,21,22,101,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+672,22,23,111,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+673,23,24,118,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+674,24,25,125,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+675,25,26,126,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+676,26,27,129,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+677,27,28,134,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+678,28,29,139,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+679,29,30,143,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+680,30,31,148,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+681,31,32,153,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+682,32,33,158,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+683,33,34,165,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+684,34,35,170,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+685,35,36,175,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+686,36,37,183,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+687,37,38,185,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+688,38,39,186,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+689,39,40,189,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+690,40,41,193,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+691,41,42,199,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+692,42,43,210,4,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+693,43,44,211,5,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+694,44,45,214,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+695,45,46,222,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+696,46,47,226,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+697,47,48,230,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+698,48,49,243,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+699,49,50,251,9,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+700,0,1,3,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+701,1,2,8,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+702,2,3,16,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+703,3,4,23,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+704,4,5,26,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+705,5,6,27,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+706,6,7,31,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+707,7,8,42,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+708,8,9,43,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+709,9,10,44,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+710,10,11,48,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+711,11,12,49,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+712,12,13,53,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+713,13,14,54,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+714,14,15,55,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+715,15,16,61,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+716,16,17,64,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+717,17,18,69,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+718,18,19,73,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+719,19,20,75,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+720,20,21,78,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+721,21,22,80,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+722,22,23,88,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+723,23,24,89,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+724,24,25,92,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+725,25,26,94,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+726,26,27,100,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+727,27,28,106,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+728,28,29,109,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+729,29,30,116,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+730,30,31,122,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+731,31,32,125,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+732,32,33,128,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+733,33,34,130,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+734,34,35,131,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+735,35,36,137,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+736,36,37,149,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+737,37,38,151,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+738,38,39,167,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+739,39,40,178,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+740,40,41,192,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+741,41,42,200,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+742,42,43,214,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+743,43,44,225,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+744,44,45,230,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+745,45,46,238,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+746,46,47,246,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+747,47,48,265,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+748,48,49,270,8,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+749,49,50,278,9,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+0,0,1,2,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+1,1,2,6,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+2,2,3,14,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+3,3,4,21,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+4,4,5,31,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+5,5,6,38,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+6,6,7,45,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+7,7,8,48,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+8,8,9,56,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+9,9,10,58,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+10,10,11,62,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+11,11,12,67,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+12,12,13,73,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+13,13,14,74,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+14,14,15,79,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+15,15,16,82,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+16,16,17,87,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+17,17,18,89,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+18,18,19,90,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+19,19,20,93,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+20,20,21,98,0,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+21,21,22,101,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+22,22,23,111,1,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+23,23,24,118,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+24,24,25,125,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+25,25,26,126,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+26,26,27,129,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+27,27,28,134,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+28,28,29,139,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+29,29,30,143,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+30,30,31,148,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+31,31,32,153,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+32,32,33,158,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+33,33,34,165,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+34,34,35,170,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+35,35,36,175,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+36,36,37,183,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+37,37,38,185,2,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+38,38,39,186,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+39,39,40,189,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+40,40,41,193,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+41,41,42,199,3,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+42,42,43,210,4,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+43,43,44,211,5,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+44,44,45,214,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+45,45,46,222,6,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+46,46,47,226,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+47,47,48,230,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+48,48,49,243,8,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+49,49,50,251,9,United Arab Emirates,251,9,Abu Dhabi,Sheikh Zayed Stadium,251/9
+0,0,1,3,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+1,1,2,8,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+2,2,3,16,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+3,3,4,23,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+4,4,5,26,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+5,5,6,27,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+6,6,7,31,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+7,7,8,42,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+8,8,9,43,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+9,9,10,44,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+10,10,11,48,0,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+11,11,12,49,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+12,12,13,53,1,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+13,13,14,54,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+14,14,15,55,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+15,15,16,61,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+16,16,17,64,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+17,17,18,69,2,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+18,18,19,73,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+19,19,20,75,3,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+20,20,21,78,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+21,21,22,80,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+22,22,23,88,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+23,23,24,89,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+24,24,25,92,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+25,25,26,94,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+26,26,27,100,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+27,27,28,106,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+28,28,29,109,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+29,29,30,116,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+30,30,31,122,4,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+31,31,32,125,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+32,32,33,128,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+33,33,34,130,5,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+34,34,35,131,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+35,35,36,137,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+36,36,37,149,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+37,37,38,151,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+38,38,39,167,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+39,39,40,178,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+40,40,41,192,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+41,41,42,200,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+42,42,43,214,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+43,43,44,225,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+44,44,45,230,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+45,45,46,238,6,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+46,46,47,246,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+47,47,48,265,7,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+48,48,49,270,8,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9
+49,49,50,278,9,United Arab Emirates,278,9,Brisbane,"Brisbane Cricket Ground, Woolloongabba",278/9

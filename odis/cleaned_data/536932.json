@@ -1,0 +1,260 @@
+{
+    "bat_team": "India",
+    "city": "Indore",
+    "final_score": "418/5",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 2,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 7,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 15,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 17,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 30,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 37,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 45,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 47,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 55,
+            "wickets": 0
+        },
+        {
+            "over": 10,
+            "runs": 63,
+            "wickets": 0
+        },
+        {
+            "over": 11,
+            "runs": 72,
+            "wickets": 0
+        },
+        {
+            "over": 12,
+            "runs": 85,
+            "wickets": 0
+        },
+        {
+            "over": 13,
+            "runs": 88,
+            "wickets": 0
+        },
+        {
+            "over": 14,
+            "runs": 97,
+            "wickets": 0
+        },
+        {
+            "over": 15,
+            "runs": 108,
+            "wickets": 0
+        },
+        {
+            "over": 16,
+            "runs": 116,
+            "wickets": 0
+        },
+        {
+            "over": 17,
+            "runs": 123,
+            "wickets": 0
+        },
+        {
+            "over": 18,
+            "runs": 132,
+            "wickets": 0
+        },
+        {
+            "over": 19,
+            "runs": 142,
+            "wickets": 0
+        },
+        {
+            "over": 20,
+            "runs": 149,
+            "wickets": 0
+        },
+        {
+            "over": 21,
+            "runs": 163,
+            "wickets": 0
+        },
+        {
+            "over": 22,
+            "runs": 170,
+            "wickets": 0
+        },
+        {
+            "over": 23,
+            "runs": 176,
+            "wickets": 1
+        },
+        {
+            "over": 24,
+            "runs": 180,
+            "wickets": 1
+        },
+        {
+            "over": 25,
+            "runs": 186,
+            "wickets": 1
+        },
+        {
+            "over": 26,
+            "runs": 194,
+            "wickets": 1
+        },
+        {
+            "over": 27,
+            "runs": 205,
+            "wickets": 1
+        },
+        {
+            "over": 28,
+            "runs": 210,
+            "wickets": 1
+        },
+        {
+            "over": 29,
+            "runs": 217,
+            "wickets": 1
+        },
+        {
+            "over": 30,
+            "runs": 225,
+            "wickets": 1
+        },
+        {
+            "over": 31,
+            "runs": 231,
+            "wickets": 1
+        },
+        {
+            "over": 32,
+            "runs": 238,
+            "wickets": 1
+        },
+        {
+            "over": 33,
+            "runs": 248,
+            "wickets": 1
+        },
+        {
+            "over": 34,
+            "runs": 255,
+            "wickets": 1
+        },
+        {
+            "over": 35,
+            "runs": 263,
+            "wickets": 1
+        },
+        {
+            "over": 36,
+            "runs": 276,
+            "wickets": 1
+        },
+        {
+            "over": 37,
+            "runs": 285,
+            "wickets": 1
+        },
+        {
+            "over": 38,
+            "runs": 293,
+            "wickets": 1
+        },
+        {
+            "over": 39,
+            "runs": 299,
+            "wickets": 1
+        },
+        {
+            "over": 40,
+            "runs": 311,
+            "wickets": 1
+        },
+        {
+            "over": 41,
+            "runs": 323,
+            "wickets": 2
+        },
+        {
+            "over": 42,
+            "runs": 332,
+            "wickets": 2
+        },
+        {
+            "over": 43,
+            "runs": 340,
+            "wickets": 2
+        },
+        {
+            "over": 44,
+            "runs": 353,
+            "wickets": 3
+        },
+        {
+            "over": 45,
+            "runs": 360,
+            "wickets": 3
+        },
+        {
+            "over": 46,
+            "runs": 371,
+            "wickets": 3
+        },
+        {
+            "over": 47,
+            "runs": 381,
+            "wickets": 4
+        },
+        {
+            "over": 48,
+            "runs": 393,
+            "wickets": 5
+        },
+        {
+            "over": 49,
+            "runs": 407,
+            "wickets": 5
+        },
+        {
+            "over": 50,
+            "runs": 418,
+            "wickets": 5
+        }
+    ],
+    "tot_runs": 418,
+    "tot_wickets": 5,
+    "venue": "Holkar Cricket Stadium"
+}

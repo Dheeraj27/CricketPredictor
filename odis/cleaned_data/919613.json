@@ -1,0 +1,259 @@
+{
+    "bat_team": "Ireland",
+    "final_score": "219/8",
+    "scores_by_overs": [
+        {
+            "over": 1,
+            "runs": 4,
+            "wickets": 0
+        },
+        {
+            "over": 2,
+            "runs": 13,
+            "wickets": 0
+        },
+        {
+            "over": 3,
+            "runs": 14,
+            "wickets": 0
+        },
+        {
+            "over": 4,
+            "runs": 16,
+            "wickets": 0
+        },
+        {
+            "over": 5,
+            "runs": 16,
+            "wickets": 0
+        },
+        {
+            "over": 6,
+            "runs": 29,
+            "wickets": 0
+        },
+        {
+            "over": 7,
+            "runs": 34,
+            "wickets": 0
+        },
+        {
+            "over": 8,
+            "runs": 36,
+            "wickets": 0
+        },
+        {
+            "over": 9,
+            "runs": 38,
+            "wickets": 1
+        },
+        {
+            "over": 10,
+            "runs": 40,
+            "wickets": 2
+        },
+        {
+            "over": 11,
+            "runs": 42,
+            "wickets": 2
+        },
+        {
+            "over": 12,
+            "runs": 43,
+            "wickets": 2
+        },
+        {
+            "over": 13,
+            "runs": 45,
+            "wickets": 2
+        },
+        {
+            "over": 14,
+            "runs": 45,
+            "wickets": 2
+        },
+        {
+            "over": 15,
+            "runs": 47,
+            "wickets": 2
+        },
+        {
+            "over": 16,
+            "runs": 52,
+            "wickets": 2
+        },
+        {
+            "over": 17,
+            "runs": 54,
+            "wickets": 3
+        },
+        {
+            "over": 18,
+            "runs": 56,
+            "wickets": 3
+        },
+        {
+            "over": 19,
+            "runs": 63,
+            "wickets": 3
+        },
+        {
+            "over": 20,
+            "runs": 70,
+            "wickets": 3
+        },
+        {
+            "over": 21,
+            "runs": 76,
+            "wickets": 3
+        },
+        {
+            "over": 22,
+            "runs": 79,
+            "wickets": 3
+        },
+        {
+            "over": 23,
+            "runs": 81,
+            "wickets": 3
+        },
+        {
+            "over": 24,
+            "runs": 84,
+            "wickets": 3
+        },
+        {
+            "over": 25,
+            "runs": 86,
+            "wickets": 3
+        },
+        {
+            "over": 26,
+            "runs": 91,
+            "wickets": 3
+        },
+        {
+            "over": 27,
+            "runs": 97,
+            "wickets": 3
+        },
+        {
+            "over": 28,
+            "runs": 106,
+            "wickets": 3
+        },
+        {
+            "over": 29,
+            "runs": 107,
+            "wickets": 3
+        },
+        {
+            "over": 30,
+            "runs": 110,
+            "wickets": 3
+        },
+        {
+            "over": 31,
+            "runs": 115,
+            "wickets": 3
+        },
+        {
+            "over": 32,
+            "runs": 121,
+            "wickets": 3
+        },
+        {
+            "over": 33,
+            "runs": 125,
+            "wickets": 3
+        },
+        {
+            "over": 34,
+            "runs": 131,
+            "wickets": 3
+        },
+        {
+            "over": 35,
+            "runs": 135,
+            "wickets": 3
+        },
+        {
+            "over": 36,
+            "runs": 137,
+            "wickets": 4
+        },
+        {
+            "over": 37,
+            "runs": 142,
+            "wickets": 4
+        },
+        {
+            "over": 38,
+            "runs": 145,
+            "wickets": 4
+        },
+        {
+            "over": 39,
+            "runs": 157,
+            "wickets": 4
+        },
+        {
+            "over": 40,
+            "runs": 158,
+            "wickets": 5
+        },
+        {
+            "over": 41,
+            "runs": 160,
+            "wickets": 6
+        },
+        {
+            "over": 42,
+            "runs": 161,
+            "wickets": 6
+        },
+        {
+            "over": 43,
+            "runs": 169,
+            "wickets": 6
+        },
+        {
+            "over": 44,
+            "runs": 172,
+            "wickets": 7
+        },
+        {
+            "over": 45,
+            "runs": 176,
+            "wickets": 7
+        },
+        {
+            "over": 46,
+            "runs": 181,
+            "wickets": 8
+        },
+        {
+            "over": 47,
+            "runs": 183,
+            "wickets": 8
+        },
+        {
+            "over": 48,
+            "runs": 190,
+            "wickets": 8
+        },
+        {
+            "over": 49,
+            "runs": 203,
+            "wickets": 8
+        },
+        {
+            "over": 50,
+            "runs": 219,
+            "wickets": 8
+        }
+    ],
+    "tot_runs": 219,
+    "tot_wickets": 8,
+    "venue": "Harare Sports Club"
+}
